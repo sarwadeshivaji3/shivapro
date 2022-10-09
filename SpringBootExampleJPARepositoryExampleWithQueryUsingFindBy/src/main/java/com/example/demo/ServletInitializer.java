@@ -10,4 +10,8 @@ public class ServletInitializer extends SpringBootServletInitializer {
 		return application.sources(SpringBootExampleJpaRepositoryExampleWithQueryUsingFindByApplication.class);
 	}
 
+	
+	
+	
+	
 }
